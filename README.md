@@ -16,8 +16,7 @@ Ich entwickle und betreibe seit über 15 Jahren eigene Geschäftssoftware — un
 ### Eigene Produkte (SaaS, langjährig im Betrieb)
 
 - **Print Instruments** — ERP- und SaaS-Mietlösung für Druckereien, seit über 15 Jahren produktiv im Einsatz: Webshop, Auftragsabwicklung, Datenprüfung, Zahlungsabwicklung und Buchhaltung in einer Plattform. → [printinstruments.de](https://printinstruments.de)
-- **Instituts- & Kursverwaltung** — Plattform für Weiterbildungs- und Psychologie-Institute (aktuell 3 im Betrieb), u. a. das [Helm Stierlin Institut Heidelberg](https://hsi-heidelberg.com): CMS-Website mit Veranstaltungs-Buchungssystem und Warenkorb, Kurs- und Teilnehmerverwaltung, Anwesenheitserfassung je Kurs, automatische Zertifikatserstellung und Rollen-Logins für Team und Dozent:innen.
-- **Instituts- & Kursverwaltung** — Plattform für Weiterbildungs- und Psychologie-Institute (aktuell 3 im Betrieb): CMS-Website mit Buchungssystem, Kurs- und Teilnehmerverwaltung, Anwesenheitserfassung je Kurs, automatische Zertifikatserstellung sowie Rollen-Logins für Team und Dozent:innen.
+- **Instituts- & Kursverwaltung** — Plattform für Weiterbildungs- und Psychologie-Institute (aktuell 3 im Betrieb): CMS-Website mit Buchungssystem, Kurs- und Teilnehmerverwaltung, Anwesenheitserfassung je Kurs, automatische Zertifikatserstellung sowie Rollen-Logins für Team und Dozent:innen. → [Helm Stierlin Institut Heidelberg](https://hsi-heidelberg.com)
 
 ### Aktuelles Projekt
 
